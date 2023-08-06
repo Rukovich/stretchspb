@@ -1,0 +1,73 @@
+/* @font-face {
+    font-family: 'Patsy Sans';
+    src: url('PatsySansItalic.eot');
+    src: local('Patsy Sans Italic'), local('PatsySansItalic'),
+        url('PatsySansItalic.eot?#iefix') format('embedded-opentype'),
+        url('PatsySansItalic.woff2') format('woff2'),
+        url('PatsySansItalic.woff') format('woff'),
+        url('PatsySansItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Patsy Sans';
+    src: url('PatsySansItalic_1.eot');
+    src: local('Patsy Sans Italic'), local('PatsySansItalic'),
+        url('PatsySansItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('PatsySansItalic_1.woff2') format('woff2'),
+        url('PatsySansItalic_1.woff') format('woff'),
+        url('PatsySansItalic_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Patsy Sans';
+    src: url('PatsySansItalic_2.eot');
+    src: url('PatsySansItalic_2.eot?#iefix') format('embedded-opentype'),
+        url('PatsySansItalic_2.woff2') format('woff2'),
+        url('PatsySansItalic_2.woff') format('woff'),
+        url('PatsySansItalic_2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Patsy Sans';
+    src: url('PatsySansRegular.eot');
+    src: local('Patsy Sans'), local('PatsySansRegular'),
+        url('PatsySansRegular.eot?#iefix') format('embedded-opentype'),
+        url('PatsySansRegular.woff2') format('woff2'),
+        url('PatsySansRegular.woff') format('woff'),
+        url('PatsySansRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Patsy Sans';
+    src: url('PatsySansItalic_3.eot');
+    src: local('Patsy Sans Italic'), local('PatsySansItalic'),
+        url('PatsySansItalic_3.eot?#iefix') format('embedded-opentype'),
+        url('PatsySansItalic_3.woff2') format('woff2'),
+        url('PatsySansItalic_3.woff') format('woff'),
+        url('PatsySansItalic_3.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+} */
+
+@font-face {
+    font-family: "Humanist 777 BT W01 Black It";
+    src: url("https://db.onlinewebfonts.com/t/0985e01da266cb30e89e9fba38dc7cbe.eot");
+    src: url("https://db.onlinewebfonts.com/t/0985e01da266cb30e89e9fba38dc7cbe.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/0985e01da266cb30e89e9fba38dc7cbe.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/0985e01da266cb30e89e9fba38dc7cbe.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/0985e01da266cb30e89e9fba38dc7cbe.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/0985e01da266cb30e89e9fba38dc7cbe.svg#Humanist 777 BT W01 Black It")format("svg");
+}
